@@ -1,0 +1,2 @@
+# KMJ VERIFY v9 bot uses ONLY the Python standard library.
+# No external packages are needed - this file stays empty on purpose.
